@@ -1,0 +1,3 @@
+# how to run codespace on termux mobile phone? 
+
+tutorial soon... 
